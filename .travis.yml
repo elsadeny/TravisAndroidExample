@@ -33,8 +33,8 @@ deploy:
   api_key:
     secure: oVvKZhQGC9fhquSLNuYclzH7XdZusVclYJBNHc4MUHkcUJTcTZdQHb1NYFGeaWH1BXvQ9Po58bhpJefHLqMeWvy3/6yyLYPXCQMvT4b7Xi3rkinNVjvoM/RaYHun9R6BAxK/mw8mIC9uVTJHD4jj/rLQsG4Jq/ZEDJyKA8SeHLmDxS82u/1nhDVNZrxd1nMdribkkrxUnsOy2ErH4gJv8O+nbQS3w8JJry26zkh13EKovPrSBe3ogmIlF3gYRZuBbpMAoTYeSQ1uPAapMJEwqIdyeBasTyFmU29Qec3OG/Ud4MB3tK3FF3IFTjygM6SNO4MLn5x8VLnSlthlou9BOXXogqpg5smF1N91/bSWuiDfiRH1nqBX9k7sLy4UjCOaGfP74YAOF8GWHtYVEC2UOvWS4KtZX46gq6ejFibl4gRvtjqLYemBb5M/aczSjJXRMFXOx/X8zxpJ8Dx4K2ioyFqraaFhdyIm5Be3JQmwDr7GfkTapwnbV1ru3UPiXoRdfYgh9yxnSeehUES1m73Fsd29IWlHYZfhCFBF7wOgI5z7P3mKEVPpt/Xx9TBOnoZrS3PhabuG6BmSRhIfPd3s2j6U8YH5Pu/DRANBqJuK7+YlFtEBOP8txUuYzLDU0lLDGyOK/EzIm1jguxUMVfhk5OlracL/3kOeMETXP7+VCw8=
   file_glob: true
-  file: /home/travis/build/ValCanBuild/TravisAndroidExample/app/build/outputs/apk/release/*
+  file: /home/travis/build/ValCanBuild/elsadeny/app/build/outputs/apk/release/*
   on:
-    repo: ValCanBuild/TravisAndroidExample
+    repo: elsadeny/TravisAndroidExample
     tags: true
 
